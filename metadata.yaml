@@ -1,5 +1,8 @@
 _repo: Memoires-de-Garibaldi-tome-22_57454
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57454-h/images/cover.jpg
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57454#Memoires-de-Garibaldi-tome-22
 gutenberg_bookshelf:
 - FR Guerres
 - FR Biographie, Mémoires, Journal intime, Correspondance
